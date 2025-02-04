@@ -1,0 +1,9 @@
+
+weather_app:
+  api_key: abc123
+  units: metric
+  language: ru
+  cities:
+    - Moscow
+    - Saint Petersburg
+  update_interval: 30
